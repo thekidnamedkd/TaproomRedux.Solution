@@ -66,8 +66,6 @@ class KegController extends React.Component {
       .concat(pintsLeft);
     this.setState({
       masterKegList: editedMasterKegList,
-      editing: false,
-      selectedKeg: null
     });
   } 
 
