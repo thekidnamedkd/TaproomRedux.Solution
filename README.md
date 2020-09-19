@@ -1,12 +1,12 @@
-# _TAP ROOM_
+# _TAPROOM REDUX_
 
-#### _React Week 2 Independent Project_
+#### _React Week 3 Independent Project_
 
 #### By _**KEVIN DAVIS**_
 
 ## Description
 
-_A tap room application to explore basic structures and functionality in React._
+_A tap room application to explore basic structures and functionality in React, now amended to include state management with Redux._
 
 ## User Stories
 
@@ -21,10 +21,10 @@ _A tap room application to explore basic structures and functionality in React._
 
 ## Setup/Installation Requirements
 
-* _Visit the following link: https://github.com/thekidnamedkd/Taproom.Solution_
+* _Visit the following link: https://github.com/thekidnamedkd/TaproomRedux.Solution_
 * _Clone the repository to your desired directory._
-* _Navigate into the director Taproom.Solution, then taproom._
-* _Once in taproom run the command ```npm install --save-exact react-scripts@3.2.0``` to install all necessary dependencies._
+* _Navigate into the director TaproomRedux.Solution, then taproom-redux._
+* _Once in taproom run the command ```npm install --save-exact react-scripts@3.2.0``` and ```npm install redux@4.0.5 react-redux@7.1.3``` to install all necessary dependencies._
 * _Type ```npm start``` to see the application boot in to your default browser._
 
 ## Known Bugs
@@ -41,6 +41,7 @@ _For questions, comments, or collaboration contact me at thekidnamedkd@gmail.com
 * _CSS_
 * _JavaScript_
 * _React_
+* _Redux_
 * _Bootstrap_
 * _NPM_
 * _Jest_
